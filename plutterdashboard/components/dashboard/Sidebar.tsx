@@ -13,8 +13,8 @@ import { BookOpen, GraduationCap, BarChart, UserCircle, Briefcase } from 'lucide
 
 const sidebarItems = [
   { name: 'Learning Progress', href: '/dashboard', icon: BookOpen },
-  { name: 'Course', href: '/dashboard/courses', icon: GraduationCap },
-  { name: 'Job Simulation', href: '/dashboard/job-simulation', icon: Briefcase },
+  { name: 'Add Course', href: '/dashboard/courses', icon: GraduationCap },
+  { name: 'Add Users', href: '/dashboard/users', icon: Briefcase },
   { name: 'Analytics', href: '/dashboard/analytics', icon: BarChart },
   { name: 'Profile', href: '/dashboard/profile', icon: UserCircle },
 ]
